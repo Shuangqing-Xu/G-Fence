@@ -4,7 +4,7 @@
 
 </div>
 
-This repository contains an anonymized prototype implementation of the protocols proposed in:
+This repository contains a prototype implementation of the protocols proposed in:
 
 > **G-Fence: Secure, Efficient and Differentially Private Graph Neural Network Training over Federated Graphs**
 
