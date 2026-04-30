@@ -95,8 +95,6 @@ G-Fence aims to:
 │   ├── Cora/
 │   ├── Citeseer/
 │   └── PubMed/
-├── docs/
-│   └── ARTIFACT.md
 ├── requirements.txt
 └── README.md
 ```
